@@ -11,4 +11,5 @@ def is_pangram(text):
     else:
         return False
 
+
 print(is_pangram(input()))
